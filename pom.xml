@@ -4,7 +4,6 @@
     <groupId>org.sonarsource.parent</groupId>
     <artifactId>parent</artifactId>
     <version>52</version>
-    <relativePath />
   </parent>
 
   <groupId>org.sonarsource.scanner.maven</groupId>
